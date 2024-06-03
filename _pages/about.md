@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Hi! I am Nuriye Özlem ÖZCAN ŞİMŞEK."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hi! I am Nuriye Özlem ÖZCAN ŞİMŞEK. 
 I am a Ph.D. graduate from Computer Engineering at Boğaziçi University, 2024. 
 I received my M.S. degree from Systems and Control Engineering at Boğaziçi University, 2010. 
